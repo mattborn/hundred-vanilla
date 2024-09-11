@@ -1,0 +1,72 @@
+[
+  {
+    "codename": "Brandy",
+    "note": "Accelerated brand design for launching new ventures.",
+    "status": "pre-launch",
+    "type": "business",
+    "url": ""
+  },
+  {
+    "codename": "Figtree",
+    "note": "Unlimited design subscription for start-ups and product teams.",
+    "status": "launched",
+    "type": "business",
+    "url": "https://moona.design/subscribe"
+  },
+  {
+    "codename": "M86",
+    "note": "We manage. We Figma. We code. Whatever you need, we deliver.",
+    "status": "pre-launch",
+    "type": "business",
+    "url": "https://moona.design/m86"
+  },
+  {
+    "codename": "Clipcut",
+    "note": "",
+    "status": "alpha",
+    "type": "product",
+    "url": ""
+  },
+  {
+    "codename": "Opswise",
+    "note": "Fractional operational support for local businesses.",
+    "status": "launched",
+    "type": "business",
+    "url": "https://opswise.co"
+  },
+  {
+    "codename": "Prodjoy",
+    "note": "Fractional product leadership support for early stage teams.",
+    "status": "launched",
+    "type": "business",
+    "url": "https://prodjoy.com"
+  },
+  {
+    "codename": "Hendrix",
+    "note": "",
+    "status": "launched",
+    "type": "business",
+    "url": "https://joeyhendrix.com"
+  },
+  {
+    "codename": "Entitled",
+    "note": "",
+    "status": "pre-launch",
+    "type": "product",
+    "url": "https://entitledui.com"
+  },
+  {
+    "codename": "Sidekick",
+    "note": "Task management for distracted workers. Close some brain tabs.",
+    "status": "pre-launch",
+    "type": "product",
+    "url": ""
+  },
+  {
+    "codename": "Spent",
+    "note": "Like Spotify Wrapped™, but for your bank account.",
+    "status": "pre-launch",
+    "type": "product",
+    "url": ""
+  }
+]
